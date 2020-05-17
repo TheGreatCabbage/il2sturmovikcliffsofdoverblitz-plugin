@@ -1,0 +1,16 @@
+---
+game: "IL-2 Sturmovik Cliffs of Dover Blitz"
+api: 1
+steamID: 754530
+uid: "com.thegreatcabbage.il2sturmovikcliffsofdoverblitz"
+author: "TheGreatCabbage"
+packageName: "il2sturmovikcliffsofdoverblitz"
+features:
+- "graphics"
+- "keymaps"
+gameDirectory: "IL-2 Sturmovik Cliffs of Dover Blitz"
+verificationPaths:
+- "Launcher64.exe"
+graphicsConfig: "$!DOCUMENTS!$/1C SoftClub/il-2 sturmovik cliffs of dover/conf.ini"
+keymapConfig: "$!DOCUMENTS!$/1C SoftClub/il-2 sturmovik cliffs of dover/confUser.ini"
+savesFolder: null
